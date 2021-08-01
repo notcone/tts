@@ -32,3 +32,5 @@ return (new Mgtow_TTS())
     ->setAmazonRegion('eu-west-2')
     ->handle();
 ```
+
+List of voices: https://docs.aws.amazon.com/polly/latest/dg/voicelist.html
