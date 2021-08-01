@@ -9,7 +9,7 @@ add `"aws/aws-sdk-php": "^3.185"` to the require block of your composer.json
 
 You can use one or multiple AWS keys
 
-How to use:
+## How to use:
 
 
 ```php
